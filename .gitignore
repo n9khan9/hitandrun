@@ -1,0 +1,33 @@
+# Compiled Binaries
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# User-specific files
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.suo
+*.opensdf
+*.user
+*.userprefs
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+
+# Unreal Plugin binaries
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# Project-specific files (optional)
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata/
